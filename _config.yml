@@ -11,12 +11,11 @@ url: "https://janczizikow.github.io/" # the base hostname & protocol for your si
 social:
   name: Thiago Alves
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://twitter.com/avsthiago
+    - https://www.facebook.com/avsthiago
+    - https://www.linkedin.com/in/avsthiago
+    - https://plus.google.com/107747883410881429000
+    - https://github.com/avsthiago
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -25,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Let's learn AI!
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
